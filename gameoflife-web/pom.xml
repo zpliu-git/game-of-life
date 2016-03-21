@@ -119,7 +119,8 @@
         </profile>
     </profiles>
     <dependencies>
-        <dependency>
+        <!-- dependencies in web module -->
+		<dependency>
             <groupId>com.wakaleo.gameoflife</groupId>
             <artifactId>gameoflife-core</artifactId>
             <version>1.0-SNAPSHOT</version>
